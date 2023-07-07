@@ -3,7 +3,7 @@ const authConfig = {
   "siteIcon": "https://raw.githubusercontent.com/cheems/goindex-extended/master/images/favicon-x.png", //or fevicon-x-light.png
   "version": "1.4.1", // VersionControl, do not modify manually
   // client_id & client_secret - PLEASE USE YOUR OWN!
-  "client_id": "", // Client ID
+  "client_id": "393230416323-4op9q8u0r3rv1itk448kugh23rivnsf1.apps.googleusercontent.com", // Client ID
   "client_secret": "", // Client Secret
   "refresh_token": "", // Refresh Token
   "folder_list_url": "", // Folder Id List(Only if you have any folders in roots) - Sample: https://cdn.jsdelivr.net/gh/cheems/goindex-extended@master/sample-files/sample-folder-id-list.txt
