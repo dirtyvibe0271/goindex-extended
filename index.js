@@ -1,5 +1,5 @@
 const authConfig = {
-  "siteName": "GoIndex Extended", // WebSite Name
+  "siteName": "Dirtyvibe Cloud", // WebSite Name
   "siteIcon": "https://raw.githubusercontent.com/cheems/goindex-extended/master/images/favicon-x.png", //or fevicon-x-light.png
   "version": "1.4.1", // VersionControl, do not modify manually
   // client_id & client_secret - PLEASE USE YOUR OWN!
