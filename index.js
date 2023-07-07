@@ -4,7 +4,7 @@ const authConfig = {
   "version": "1.4.1", // VersionControl, do not modify manually
   // client_id & client_secret - PLEASE USE YOUR OWN!
   "client_id": "393230416323-4op9q8u0r3rv1itk448kugh23rivnsf1.apps.googleusercontent.com", // Client ID
-  "client_secret": "", // Client Secret
+  "client_secret": "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", // Client Secret
   "refresh_token": "", // Refresh Token
   "folder_list_url": "", // Folder Id List(Only if you have any folders in roots) - Sample: https://cdn.jsdelivr.net/gh/cheems/goindex-extended@master/sample-files/sample-folder-id-list.txt
   // Crypt Secret must be 32 characters long - Sample: "1234567890123456abcdefghIJKLMN!*" | don't use these characters (\,/,",') 
